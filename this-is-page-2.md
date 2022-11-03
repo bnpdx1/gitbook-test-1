@@ -1,7 +1,7 @@
 ---
 description: >-
-  TEST_BN_GitBook is a modern documentation platform where teams can document everything
-  from products to internal knowledge bases and APIs.
+  GitBook es una plataforma de documentación moderna donde los equipos pueden documentar todo
+   desde productos hasta bases de conocimiento internas y API.
 ---
 
 # This is Page 2
